@@ -1,3 +1,3 @@
 # shortest-fizzbuzz
-O(n) Fizz buzz, short and concise
+O(n) Fizz buzz, short and concise,
 super simple code
